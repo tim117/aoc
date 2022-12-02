@@ -1,0 +1,31 @@
+{
+  "name": "@tim117/aoc-schedule",
+  "version": "0.0.1",
+  "description": "Schedule maker for advent of code.",
+  "bin": {
+    "create-advent-schedule": "./dist/main.js"
+  },
+  "repository": "tim117/aoc",
+  "homepage": "https://github.com/tim117/aoc/tree/main/aoc-schedule",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Advent",
+    "Of",
+    "Code",
+    "aoc"
+  ],
+  "author": "Tim117",
+  "license": "MIT",
+  "dependencies": {
+    "ora": "^6.1.2",
+    "yargs": "^17.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.10",
+    "@types/yargs": "^17.0.15",
+    "typescript": "^4.9.3"
+  },
+  "type": "module"
+}
