@@ -1,11 +1,7 @@
 {
   "name": "aoc",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "build": "tsc"
-  },
+  "scripts": {},
   "keywords": [],
   "author": "Tim117",
   "license": "MIT",

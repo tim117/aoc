@@ -1,0 +1,12 @@
+{
+  "name": "day-1",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "go build -o ./dist/run.exe",
+    "start": "go run main.go"
+  },
+  "keywords": [],
+  "author": "Tim117",
+  "license": "MIT"
+}

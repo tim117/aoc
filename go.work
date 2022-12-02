@@ -1,1 +1,6 @@
 go 1.19
+
+use (
+	./2022/day-1
+	./answers/go
+)
