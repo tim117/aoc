@@ -1,6 +1,6 @@
 {
   "name": "@tim117/aoc-schedule",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Schedule maker for advent of code.",
   "bin": {
     "create-advent-schedule": "./dist/main.js"
