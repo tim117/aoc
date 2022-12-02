@@ -7,7 +7,7 @@
     "build": "tsc"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Tim117",
+  "license": "MIT",
   "type": "module"
 }
