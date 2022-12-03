@@ -1,0 +1,11 @@
+{
+  "name": "cs-aoc-write-answers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [],
+  "author": "Tim117",
+  "license": "MIT"
+}
