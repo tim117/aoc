@@ -1,0 +1,11 @@
+{
+  "name": "cpp-aoc-write-answers",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "g++ -o ./test.exe write_test.cpp && test.exe"
+  },
+  "keywords": [],
+  "author": "Tim117",
+  "license": "MIT"
+}
