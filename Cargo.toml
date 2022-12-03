@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "answers/rust",
+    "2022/day-4",
+]
