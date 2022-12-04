@@ -1,9 +1,9 @@
 {
-  "name": "go-aoc-write-answers",
+  "name": "rust",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "go test"
+    "test": "cargo test"
   },
   "keywords": [],
   "author": "Tim117",
