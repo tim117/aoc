@@ -1,10 +1,10 @@
 {
-  "name": "day-3",
+  "name": "day-4",
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "dotnet build",
-    "start": "dotnet run"
+    "build": "cargo build",
+    "start": "cargo run"
   },
   "keywords": [],
   "author": "Tim117",
