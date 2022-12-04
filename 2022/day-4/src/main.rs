@@ -1,5 +1,5 @@
 use aoc_write_answers::{read_input, write_answers};
-use std::{any, io::Error};
+use std::io::Error;
 
 fn main() -> Result<(), Error> {
     let ranges = get_ranges()?;
