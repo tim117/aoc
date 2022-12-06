@@ -12,7 +12,7 @@ import (
 func main() {
 	input, err := os.ReadFile("input.txt")
 	if (err) != nil {
-		fmt.Printf("There was an error %v\n", err)
+		fmt.Printf("There was an error reading the input.txt file: %v.\n", err)
 		return
 	}
 	lines := strings.Split(string(input), "\n")

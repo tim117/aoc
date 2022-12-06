@@ -7,3 +7,5 @@ answers.txt
 obj/
 bin/
 target/
+.elixir_ls/
+_build/

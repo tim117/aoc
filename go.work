@@ -2,5 +2,6 @@ go 1.19
 
 use (
 	./2022/day-1
+	./2022/day-5
 	./answers/go
 )
