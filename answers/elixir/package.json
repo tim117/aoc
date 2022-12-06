@@ -1,0 +1,12 @@
+{
+  "name": "elixir",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mix test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
