@@ -1,0 +1,13 @@
+{
+  "name": "day-9",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "g++ -o ./dist/day-2.exe main.cpp",
+    "start": "./dist/day-2.exe",
+    "start:windows": "dist\\day-2.exe"
+  },
+  "keywords": [],
+  "author": "Tim117",
+  "license": "MIT"
+}
