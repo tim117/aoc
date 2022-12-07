@@ -12,3 +12,10 @@ version = "0.1.0"
 dependencies = [
  "aoc_write_answers",
 ]
+
+[[package]]
+name = "day-8"
+version = "0.1.0"
+dependencies = [
+ "aoc_write_answers",
+]

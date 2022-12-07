@@ -3,4 +3,5 @@
 members = [
     "answers/rust",
     "2022/day-4",
+    "2022/day-8",
 ]
